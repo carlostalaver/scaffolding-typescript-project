@@ -1,0 +1,21 @@
+{
+  "name": "testtypescript",
+  "version": "1.0.0",
+  "description": "Configurando entorno Typescript",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^6.5.1",
+    "http-server": "^0.11.1",
+    "ts-node": "^8.4.1",
+    "typescript": "^3.6.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "carlostalaver@gmail.com",
+  "license": "ISC"
+}
